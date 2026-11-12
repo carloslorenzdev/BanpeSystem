@@ -1,0 +1,14 @@
+codigo_maprex,descripcion,unidad,cantidad,precio_unitario_usd,fase_capitulo,categoria
+E121.100.000,Deforestación y limpieza de terreno a máquina,m2,2500.00,1.80,Fase 1: Obras Preliminares,Agregados y Cemento
+E131.100.000,Excavación en tierra para zapatas y fundaciones,m3,420.00,12.50,Fase 1: Movimiento de Tierra y Fundaciones,Agregados y Cemento
+CEM-001,Cemento Gris Portland Tipo I para fundaciones,saco,850.00,7.20,Fase 2: Estructura de Concreto,Agregados y Cemento
+AGR-001,Arena Amarilla Lavada para vaciados,m3,120.00,25.00,Fase 2: Estructura de Concreto,Agregados y Cemento
+AGR-002,Piedra Picada N° 1 (Grava para mezcla),m3,140.00,28.00,Fase 2: Estructura de Concreto,Agregados y Cemento
+CAB-001,Cabilla Estriada 1/2" x 12m Grado 60,barra,450.00,14.20,Fase 2: Estructura de Concreto,Aceros y Armaduras
+CAB-002,Cabilla Estriada 3/8" x 12m para estribos,barra,380.00,11.50,Fase 2: Estructura de Concreto,Aceros y Armaduras
+CAB-003,Alambre Dulce Recocido N° 18,kg,150.00,3.20,Fase 2: Estructura de Concreto,Aceros y Armaduras
+BLO-001,Bloque de Arcilla 15x20x30 cm de 6 huecos,und,6500.00,0.85,Fase 3: Cerramiento y Mampostería,Bloques y Mampostería
+TUB-001,Tubería PVC Sanitaria 4" x 3m Pavco,tubo,45.00,18.50,Fase 3: Instalaciones Sanitarias,Tuberías y Plomería
+TUB-002,Tubería PVC Presión 1/2" para agua blanca,tubo,60.00,8.20,Fase 3: Instalaciones Sanitarias,Tuberías y Plomería
+ELE-001,Cable THHN Calibre 12 AWG 7 Hilos,rollo,12.00,65.00,Fase 3: Instalaciones Eléctricas,Electricidad e Iluminación
+

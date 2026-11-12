@@ -1,0 +1,16 @@
+codigo_maprex,descripcion,categoria,unidad,precio_estimado_usd,stock_minimo
+CEM-001,Cemento Gris Portland Tipo I (saco 42.5kg),Agregados y Cemento,saco,9.20,50
+ARE-001,Arena Amarilla Lavada para Concreto,Agregados y Cemento,m3,28.50,15
+PIE-001,Piedra Picada No. 1 para Vaciado Estructural,Agregados y Cemento,m3,32.00,12
+CAB-001,Cabilla de Acero Estriado 1/2 pulgada (12m),Acero y Ferralla,barra,14.50,100
+CAB-002,Cabilla de Acero Estriado 3/8 pulgada (12m),Acero y Ferralla,barra,8.80,100
+BLO-001,Bloque de Arcilla 15x20x30 cm (Tabiquería),Albañilería y Bloques,und,0.85,500
+BLO-002,Bloque de Concreto 15x20x40 cm (Muros Carga),Albañilería y Bloques,und,1.10,300
+TUB-001,Tubería PVC Sanitaria Pavco 4 pulg x 3m,Plomería y Tuberías,tubo,16.50,20
+TUB-002,Tubería PVC Aguas Negras 2 pulg x 3m,Plomería y Tuberías,tubo,8.20,25
+CAB-003,Cable de Cobre THHN Calibre 12 AWG (rollo 100m),Electricidad e Iluminación,rollo,68.00,5
+PIN-001,Pintura Caucho Clase A Blanco Intenso (Cuñete 5 Gal),Acabados y Pinturas,cuñete,45.00,8
+E121.100.000,Deforestación y limpieza de terreno a máquina,Movimiento de Tierras,m2,1.80,0
+E131.100.000,Excavación en tierra para zapatas y fundaciones,Movimiento de Tierras,m3,12.50,0
+E323.000.120,Vaciado de concreto premezclado R.C. 250 kg/cm2,Estructuras y Concreto,m3,145.00,0
+

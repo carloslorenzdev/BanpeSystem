@@ -1,0 +1,156 @@
+<html xmlns:o="urn:schemas-microsoft-com:office:office" xmlns:x="urn:schemas-microsoft-com:office:excel" xmlns="http://www.w3.org/TR/REC-html40">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+</head>
+<body>
+<table border="1">
+  <tr>
+    <td colspan="6" style="font-weight:bold; font-size:14pt; background-color:#1e293b; color:#ffffff; text-align:center;">
+      DATALAING MAPREX - PRESUPUESTO DE OBRA: REPARACIONES EN CARRETERA TRONCAL
+    </td>
+  </tr>
+  <tr style="background-color:#e2e8f0; font-weight:bold;">
+    <th>Partida</th>
+    <th>Descripcion</th>
+    <th>Unidad</th>
+    <th>Cantidad</th>
+    <th>Precio Unitario</th>
+    <th>Capitulo</th>
+  </tr>
+  <tr>
+    <td>C.026200102</td>
+    <td>TRANSPORTE DE MAQUINARIA PESADA P/MOVIMIENTO DE TIERRA, BASES, ASFALTO, PREP. DEL SITIO, DRENAJES</td>
+    <td>tf*km</td>
+    <td>8.100,00</td>
+    <td>2,88</td>
+    <td>Obras Preliminares</td>
+  </tr>
+  <tr>
+    <td>C.030100100</td>
+    <td>DEFORESTACION Y LIMPIEZA LIVIANA A MAQUINA EN ZONA VEGETAL</td>
+    <td>ha</td>
+    <td>3,00</td>
+    <td>9.393,10</td>
+    <td>Obras Preliminares</td>
+  </tr>
+  <tr>
+    <td>C.030500101</td>
+    <td>DEMOLICION DE PAVIMENTO ASFALTICO EXISTENTE CON EQUIPO PESADO</td>
+    <td>m3</td>
+    <td>19,00</td>
+    <td>430,01</td>
+    <td>Movimiento de Tierra</td>
+  </tr>
+  <tr>
+    <td>C.030500400</td>
+    <td>REMOCION DE PAVIMENTO ASFALTICO CON FRESADORA EN CALZADA</td>
+    <td>m3</td>
+    <td>6.000,00</td>
+    <td>25,22</td>
+    <td>Movimiento de Tierra</td>
+  </tr>
+  <tr>
+    <td>C.050206102</td>
+    <td>SUMINISTRO Y COLOCACION DE TUBERIA DE CONCRETO PARA ALCANTARILLAS</td>
+    <td>m</td>
+    <td>33,00</td>
+    <td>1.802,98</td>
+    <td>Drenajes y Alcantarillas</td>
+  </tr>
+  <tr>
+    <td>C.058302503</td>
+    <td>CONCRETO EN CABEZALES DE ALCANTARILLAS Y ALETAS</td>
+    <td>m3</td>
+    <td>98,00</td>
+    <td>2.537,26</td>
+    <td>Estructuras de Concreto</td>
+  </tr>
+  <tr>
+    <td>C.058721000</td>
+    <td>ACERO DE REFUERZO CABILLAS EN CABEZALES DE ALCANTARILLAS</td>
+    <td>kgf</td>
+    <td>198,00</td>
+    <td>16,56</td>
+    <td>Estructuras de Concreto</td>
+  </tr>
+  <tr>
+    <td>C.138750000</td>
+    <td>MALLA ELECTROSOLDADA PARA REFUERZO EN LOSAS DE PROTECCION</td>
+    <td>kgf</td>
+    <td>8.500,00</td>
+    <td>30,26</td>
+    <td>Estructuras de Concreto</td>
+  </tr>
+  <tr>
+    <td>C.100100201</td>
+    <td>BASE GRANULAR PICADA PARA PAVIMENTO COMPACTADA</td>
+    <td>m3</td>
+    <td>3.300,00</td>
+    <td>45,90</td>
+    <td>Pavimentacion y Asfalto</td>
+  </tr>
+  <tr>
+    <td>C.100200200</td>
+    <td>IMPRIMACION ASFALTICA CON ASFALTO LIQUIDO RC-250</td>
+    <td>m3</td>
+    <td>1.200,00</td>
+    <td>122,71</td>
+    <td>Pavimentacion y Asfalto</td>
+  </tr>
+  <tr>
+    <td>C.100300103</td>
+    <td>BACHEO PROFUNDO CON MEZCLA ASFALTICA EN CALIENTE</td>
+    <td>m3</td>
+    <td>200,00</td>
+    <td>248,29</td>
+    <td>Pavimentacion y Asfalto</td>
+  </tr>
+  <tr>
+    <td>C.100400200</td>
+    <td>CARPETA ASFALTICA DE RODAMIENTO EN CALIENTE TIPO III</td>
+    <td>m3</td>
+    <td>500,00</td>
+    <td>30,09</td>
+    <td>Pavimentacion y Asfalto</td>
+  </tr>
+  <tr>
+    <td>C.123000102</td>
+    <td>DEMARCACION DE PAVIMENTO CON PINTURA TERMOPLASTICA REFLECTIVA</td>
+    <td>tonf</td>
+    <td>400,00</td>
+    <td>189,28</td>
+    <td>Seguridad Vial</td>
+  </tr>
+  <tr>
+    <td>C.123030002</td>
+    <td>OJOS DE GATO / TACHAS REFLECTIVAS VIALES BIDIRECCIONALES</td>
+    <td>tonf</td>
+    <td>400,00</td>
+    <td>138,23</td>
+    <td>Seguridad Vial</td>
+  </tr>
+  <tr>
+    <td>C.120100100</td>
+    <td>SENALIZACION VERTICAL DE PREVENCION E INFORMACION TIPO BANDERA</td>
+    <td>m2</td>
+    <td>1.700,00</td>
+    <td>9,76</td>
+    <td>Seguridad Vial</td>
+  </tr>
+  <tr>
+    <td>C.120200102</td>
+    <td>DEFENSAS METALICAS VIALES DE SEGURIDAD EN CURVAS Y PUENTES</td>
+    <td>m2</td>
+    <td>1.700,00</td>
+    <td>6,35</td>
+    <td>Seguridad Vial</td>
+  </tr>
+  <tr style="background-color:#f1f5f9; font-weight:bold;">
+    <td colspan="4" style="text-align:right;">TOTAL PRESUPUESTO:</td>
+    <td>1.301.452,19</td>
+    <td></td>
+  </tr>
+</table>
+</body>
+</html>
+

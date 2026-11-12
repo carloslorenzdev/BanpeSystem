@@ -1,0 +1,167 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?mso-application progid="Excel.Sheet"?>
+<Workbook xmlns="urn:schemas-microsoft-com:office:spreadsheet" xmlns:o="urn:schemas-microsoft-com:office:office" xmlns:x="urn:schemas-microsoft-com:office:excel" xmlns:ss="urn:schemas-microsoft-com:office:spreadsheet">
+<Styles>
+  <Style ss:ID="Header">
+    <Font ss:Bold="1" ss:Color="#FFFFFF"/>
+    <Interior ss:Color="#D97706" ss:Pattern="Solid"/>
+    <Alignment ss:Horizontal="Center" ss:Vertical="Center"/>
+    <Borders>
+      <Border ss:Position="Bottom" ss:LineStyle="Continuous" ss:Weight="1"/>
+    </Borders>
+  </Style>
+  <Style ss:ID="Currency">
+    <NumberFormat ss:Format="$#,##0.00"/>
+    <Alignment ss:Horizontal="Right"/>
+  </Style>
+  <Style ss:ID="Number">
+    <NumberFormat ss:Format="#,##0.00"/>
+    <Alignment ss:Horizontal="Right"/>
+  </Style>
+  <Style ss:ID="Center">
+    <Alignment ss:Horizontal="Center"/>
+  </Style>
+</Styles>
+<Worksheet ss:Name="Computos Maprex BANPE">
+<Table>
+<Column ss:Width="100"/>
+<Column ss:Width="280"/>
+<Column ss:Width="60"/>
+<Column ss:Width="80"/>
+<Column ss:Width="90"/>
+<Column ss:Width="100"/>
+<Column ss:Width="180"/>
+<Column ss:Width="150"/>
+<Row ss:StyleID="Header">
+<Cell><Data ss:Type="String">CODIGO_MAPREX</Data></Cell>
+<Cell><Data ss:Type="String">DESCRIPCION</Data></Cell>
+<Cell><Data ss:Type="String">UNIDAD</Data></Cell>
+<Cell><Data ss:Type="String">CANTIDAD</Data></Cell>
+<Cell><Data ss:Type="String">PRECIO_UNITARIO_USD</Data></Cell>
+<Cell><Data ss:Type="String">TOTAL_USD</Data></Cell>
+<Cell><Data ss:Type="String">FASE_CAPITULO</Data></Cell>
+<Cell><Data ss:Type="String">CATEGORIA</Data></Cell>
+</Row>
+<Row>
+<Cell ss:StyleID="Center"><Data ss:Type="String">E121.100.000</Data></Cell>
+<Cell><Data ss:Type="String">Deforestación y limpieza de terreno a máquina</Data></Cell>
+<Cell ss:StyleID="Center"><Data ss:Type="String">m²</Data></Cell>
+<Cell ss:StyleID="Number"><Data ss:Type="Number">2500</Data></Cell>
+<Cell ss:StyleID="Currency"><Data ss:Type="Number">1.8</Data></Cell>
+<Cell ss:StyleID="Currency"><Data ss:Type="Number">4500</Data></Cell>
+<Cell><Data ss:Type="String">Fase 1: Obras Preliminares</Data></Cell>
+<Cell><Data ss:Type="String">Agregados y Cemento</Data></Cell>
+</Row>
+<Row>
+<Cell ss:StyleID="Center"><Data ss:Type="String">E131.100.000</Data></Cell>
+<Cell><Data ss:Type="String">Excavación en tierra para zapatas y fundaciones</Data></Cell>
+<Cell ss:StyleID="Center"><Data ss:Type="String">m³</Data></Cell>
+<Cell ss:StyleID="Number"><Data ss:Type="Number">420</Data></Cell>
+<Cell ss:StyleID="Currency"><Data ss:Type="Number">12.5</Data></Cell>
+<Cell ss:StyleID="Currency"><Data ss:Type="Number">5250</Data></Cell>
+<Cell><Data ss:Type="String">Fase 1: Movimiento de Tierra y Fundaciones</Data></Cell>
+<Cell><Data ss:Type="String">Agregados y Cemento</Data></Cell>
+</Row>
+<Row>
+<Cell ss:StyleID="Center"><Data ss:Type="String">CEM-001</Data></Cell>
+<Cell><Data ss:Type="String">Cemento Gris Portland Tipo I para fundaciones</Data></Cell>
+<Cell ss:StyleID="Center"><Data ss:Type="String">saco</Data></Cell>
+<Cell ss:StyleID="Number"><Data ss:Type="Number">850</Data></Cell>
+<Cell ss:StyleID="Currency"><Data ss:Type="Number">7.2</Data></Cell>
+<Cell ss:StyleID="Currency"><Data ss:Type="Number">6120</Data></Cell>
+<Cell><Data ss:Type="String">Fase 2: Estructura de Concreto</Data></Cell>
+<Cell><Data ss:Type="String">Agregados y Cemento</Data></Cell>
+</Row>
+<Row>
+<Cell ss:StyleID="Center"><Data ss:Type="String">AGR-001</Data></Cell>
+<Cell><Data ss:Type="String">Arena Amarilla Lavada para vaciados</Data></Cell>
+<Cell ss:StyleID="Center"><Data ss:Type="String">m³</Data></Cell>
+<Cell ss:StyleID="Number"><Data ss:Type="Number">120</Data></Cell>
+<Cell ss:StyleID="Currency"><Data ss:Type="Number">25</Data></Cell>
+<Cell ss:StyleID="Currency"><Data ss:Type="Number">3000</Data></Cell>
+<Cell><Data ss:Type="String">Fase 2: Estructura de Concreto</Data></Cell>
+<Cell><Data ss:Type="String">Agregados y Cemento</Data></Cell>
+</Row>
+<Row>
+<Cell ss:StyleID="Center"><Data ss:Type="String">AGR-002</Data></Cell>
+<Cell><Data ss:Type="String">Piedra Picada N° 1 (Grava para mezcla estructural)</Data></Cell>
+<Cell ss:StyleID="Center"><Data ss:Type="String">m³</Data></Cell>
+<Cell ss:StyleID="Number"><Data ss:Type="Number">140</Data></Cell>
+<Cell ss:StyleID="Currency"><Data ss:Type="Number">28</Data></Cell>
+<Cell ss:StyleID="Currency"><Data ss:Type="Number">3920</Data></Cell>
+<Cell><Data ss:Type="String">Fase 2: Estructura de Concreto</Data></Cell>
+<Cell><Data ss:Type="String">Agregados y Cemento</Data></Cell>
+</Row>
+<Row>
+<Cell ss:StyleID="Center"><Data ss:Type="String">CAB-001</Data></Cell>
+<Cell><Data ss:Type="String">Cabilla Estriada 1/2&quot; x 12m Grado 60</Data></Cell>
+<Cell ss:StyleID="Center"><Data ss:Type="String">barra</Data></Cell>
+<Cell ss:StyleID="Number"><Data ss:Type="Number">450</Data></Cell>
+<Cell ss:StyleID="Currency"><Data ss:Type="Number">14.2</Data></Cell>
+<Cell ss:StyleID="Currency"><Data ss:Type="Number">6390</Data></Cell>
+<Cell><Data ss:Type="String">Fase 2: Estructura de Concreto</Data></Cell>
+<Cell><Data ss:Type="String">Aceros y Armaduras</Data></Cell>
+</Row>
+<Row>
+<Cell ss:StyleID="Center"><Data ss:Type="String">CAB-002</Data></Cell>
+<Cell><Data ss:Type="String">Cabilla Estriada 3/8&quot; x 12m para estribos</Data></Cell>
+<Cell ss:StyleID="Center"><Data ss:Type="String">barra</Data></Cell>
+<Cell ss:StyleID="Number"><Data ss:Type="Number">380</Data></Cell>
+<Cell ss:StyleID="Currency"><Data ss:Type="Number">11.5</Data></Cell>
+<Cell ss:StyleID="Currency"><Data ss:Type="Number">4370</Data></Cell>
+<Cell><Data ss:Type="String">Fase 2: Estructura de Concreto</Data></Cell>
+<Cell><Data ss:Type="String">Aceros y Armaduras</Data></Cell>
+</Row>
+<Row>
+<Cell ss:StyleID="Center"><Data ss:Type="String">CAB-003</Data></Cell>
+<Cell><Data ss:Type="String">Alambre Dulce Recocido N° 18</Data></Cell>
+<Cell ss:StyleID="Center"><Data ss:Type="String">kg</Data></Cell>
+<Cell ss:StyleID="Number"><Data ss:Type="Number">150</Data></Cell>
+<Cell ss:StyleID="Currency"><Data ss:Type="Number">3.2</Data></Cell>
+<Cell ss:StyleID="Currency"><Data ss:Type="Number">480</Data></Cell>
+<Cell><Data ss:Type="String">Fase 2: Estructura de Concreto</Data></Cell>
+<Cell><Data ss:Type="String">Aceros y Armaduras</Data></Cell>
+</Row>
+<Row>
+<Cell ss:StyleID="Center"><Data ss:Type="String">BLO-001</Data></Cell>
+<Cell><Data ss:Type="String">Bloque de Arcilla 15x20x30 cm de 6 huecos</Data></Cell>
+<Cell ss:StyleID="Center"><Data ss:Type="String">und</Data></Cell>
+<Cell ss:StyleID="Number"><Data ss:Type="Number">6500</Data></Cell>
+<Cell ss:StyleID="Currency"><Data ss:Type="Number">0.85</Data></Cell>
+<Cell ss:StyleID="Currency"><Data ss:Type="Number">5525</Data></Cell>
+<Cell><Data ss:Type="String">Fase 3: Cerramiento y Mampostería</Data></Cell>
+<Cell><Data ss:Type="String">Bloques y Mampostería</Data></Cell>
+</Row>
+<Row>
+<Cell ss:StyleID="Center"><Data ss:Type="String">TUB-001</Data></Cell>
+<Cell><Data ss:Type="String">Tubería PVC Sanitaria 4&quot; x 3m Pavco</Data></Cell>
+<Cell ss:StyleID="Center"><Data ss:Type="String">tubo</Data></Cell>
+<Cell ss:StyleID="Number"><Data ss:Type="Number">45</Data></Cell>
+<Cell ss:StyleID="Currency"><Data ss:Type="Number">18.5</Data></Cell>
+<Cell ss:StyleID="Currency"><Data ss:Type="Number">832.5</Data></Cell>
+<Cell><Data ss:Type="String">Fase 3: Instalaciones Sanitarias</Data></Cell>
+<Cell><Data ss:Type="String">Tuberías y Plomería</Data></Cell>
+</Row>
+<Row>
+<Cell ss:StyleID="Center"><Data ss:Type="String">TUB-002</Data></Cell>
+<Cell><Data ss:Type="String">Tubería PVC Presión 1/2&quot; para agua blanca</Data></Cell>
+<Cell ss:StyleID="Center"><Data ss:Type="String">tubo</Data></Cell>
+<Cell ss:StyleID="Number"><Data ss:Type="Number">60</Data></Cell>
+<Cell ss:StyleID="Currency"><Data ss:Type="Number">8.2</Data></Cell>
+<Cell ss:StyleID="Currency"><Data ss:Type="Number">492</Data></Cell>
+<Cell><Data ss:Type="String">Fase 3: Instalaciones Sanitarias</Data></Cell>
+<Cell><Data ss:Type="String">Tuberías y Plomería</Data></Cell>
+</Row>
+<Row>
+<Cell ss:StyleID="Center"><Data ss:Type="String">ELE-001</Data></Cell>
+<Cell><Data ss:Type="String">Cable THHN Calibre 12 AWG 7 Hilos</Data></Cell>
+<Cell ss:StyleID="Center"><Data ss:Type="String">rollo</Data></Cell>
+<Cell ss:StyleID="Number"><Data ss:Type="Number">12</Data></Cell>
+<Cell ss:StyleID="Currency"><Data ss:Type="Number">65</Data></Cell>
+<Cell ss:StyleID="Currency"><Data ss:Type="Number">780</Data></Cell>
+<Cell><Data ss:Type="String">Fase 3: Instalaciones Eléctricas</Data></Cell>
+<Cell><Data ss:Type="String">Electricidad e Iluminación</Data></Cell>
+</Row>
+</Table>
+</Worksheet>
+</Workbook>

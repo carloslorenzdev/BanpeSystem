@@ -1,0 +1,149 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?mso-application progid="Excel.Sheet"?>
+<Workbook xmlns="urn:schemas-microsoft-com:office:spreadsheet"
+ xmlns:o="urn:schemas-microsoft-com:office:office"
+ xmlns:x="urn:schemas-microsoft-com:office:excel"
+ xmlns:ss="urn:schemas-microsoft-com:office:spreadsheet"
+ xmlns:html="http://www.w3.org/TR/REC-html40">
+ <Styles>
+  <Style ss:ID="Default" ss:Name="Normal">
+   <Alignment ss:Vertical="Bottom"/>
+   <Borders/>
+   <Font ss:FontName="Calibri" x:Family="Swiss" ss:Size="11" ss:Color="#000000"/>
+   <Interior/>
+   <NumberFormat/>
+   <Protection/>
+  </Style>
+  <Style ss:ID="HeaderStyle">
+   <Font ss:FontName="Calibri" x:Family="Swiss" ss:Size="11" ss:Color="#FFFFFF" ss:Bold="1"/>
+   <Interior ss:Color="#1E293B" ss:Pattern="Solid"/>
+   <Alignment ss:Horizontal="Center" ss:Vertical="Center"/>
+  </Style>
+  <Style ss:ID="CurrencyStyle">
+   <NumberFormat ss:Format="&quot;$&quot;#,##0.00"/>
+  </Style>
+ </Styles>
+ <Worksheet ss:Name="Catalogo_Maprex_BANPE">
+  <Table ss:DefaultColumnWidth="120">
+   <Column ss:Width="100"/>
+   <Column ss:Width="260"/>
+   <Column ss:Width="150"/>
+   <Column ss:Width="70"/>
+   <Column ss:Width="110"/>
+   <Column ss:Width="90"/>
+   <Row ss:Height="24">
+    <Cell ss:StyleID="HeaderStyle"><Data ss:Type="String">codigo_maprex</Data></Cell>
+    <Cell ss:StyleID="HeaderStyle"><Data ss:Type="String">descripcion</Data></Cell>
+    <Cell ss:StyleID="HeaderStyle"><Data ss:Type="String">categoria</Data></Cell>
+    <Cell ss:StyleID="HeaderStyle"><Data ss:Type="String">unidad</Data></Cell>
+    <Cell ss:StyleID="HeaderStyle"><Data ss:Type="String">precio_estimado_usd</Data></Cell>
+    <Cell ss:StyleID="HeaderStyle"><Data ss:Type="String">stock_minimo</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">CEM-001</Data></Cell>
+    <Cell><Data ss:Type="String">Cemento Gris Portland Tipo I (saco 42.5kg)</Data></Cell>
+    <Cell><Data ss:Type="String">Agregados y Cemento</Data></Cell>
+    <Cell><Data ss:Type="String">saco</Data></Cell>
+    <Cell ss:StyleID="CurrencyStyle"><Data ss:Type="Number">9.20</Data></Cell>
+    <Cell><Data ss:Type="Number">50</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">ARE-001</Data></Cell>
+    <Cell><Data ss:Type="String">Arena Amarilla Lavada para Concreto</Data></Cell>
+    <Cell><Data ss:Type="String">Agregados y Cemento</Data></Cell>
+    <Cell><Data ss:Type="String">m3</Data></Cell>
+    <Cell ss:StyleID="CurrencyStyle"><Data ss:Type="Number">28.50</Data></Cell>
+    <Cell><Data ss:Type="Number">15</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">PIE-001</Data></Cell>
+    <Cell><Data ss:Type="String">Piedra Picada No. 1 para Vaciado Estructural</Data></Cell>
+    <Cell><Data ss:Type="String">Agregados y Cemento</Data></Cell>
+    <Cell><Data ss:Type="String">m3</Data></Cell>
+    <Cell ss:StyleID="CurrencyStyle"><Data ss:Type="Number">32.00</Data></Cell>
+    <Cell><Data ss:Type="Number">12</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">CAB-001</Data></Cell>
+    <Cell><Data ss:Type="String">Cabilla de Acero Estriado 1/2 pulgada (12m)</Data></Cell>
+    <Cell><Data ss:Type="String">Acero y Ferralla</Data></Cell>
+    <Cell><Data ss:Type="String">barra</Data></Cell>
+    <Cell ss:StyleID="CurrencyStyle"><Data ss:Type="Number">14.50</Data></Cell>
+    <Cell><Data ss:Type="Number">100</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">CAB-002</Data></Cell>
+    <Cell><Data ss:Type="String">Cabilla de Acero Estriado 3/8 pulgada (12m)</Data></Cell>
+    <Cell><Data ss:Type="String">Acero y Ferralla</Data></Cell>
+    <Cell><Data ss:Type="String">barra</Data></Cell>
+    <Cell ss:StyleID="CurrencyStyle"><Data ss:Type="Number">8.80</Data></Cell>
+    <Cell><Data ss:Type="Number">100</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">BLO-001</Data></Cell>
+    <Cell><Data ss:Type="String">Bloque de Arcilla 15x20x30 cm (Tabiquería)</Data></Cell>
+    <Cell><Data ss:Type="String">Albañilería y Bloques</Data></Cell>
+    <Cell><Data ss:Type="String">und</Data></Cell>
+    <Cell ss:StyleID="CurrencyStyle"><Data ss:Type="Number">0.85</Data></Cell>
+    <Cell><Data ss:Type="Number">500</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">BLO-002</Data></Cell>
+    <Cell><Data ss:Type="String">Bloque de Concreto 15x20x40 cm (Muros Carga)</Data></Cell>
+    <Cell><Data ss:Type="String">Albañilería y Bloques</Data></Cell>
+    <Cell><Data ss:Type="String">und</Data></Cell>
+    <Cell ss:StyleID="CurrencyStyle"><Data ss:Type="Number">1.10</Data></Cell>
+    <Cell><Data ss:Type="Number">300</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">TUB-001</Data></Cell>
+    <Cell><Data ss:Type="String">Tubería PVC Sanitaria Pavco 4 pulg x 3m</Data></Cell>
+    <Cell><Data ss:Type="String">Plomería y Tuberías</Data></Cell>
+    <Cell><Data ss:Type="String">tubo</Data></Cell>
+    <Cell ss:StyleID="CurrencyStyle"><Data ss:Type="Number">16.50</Data></Cell>
+    <Cell><Data ss:Type="Number">20</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">CAB-003</Data></Cell>
+    <Cell><Data ss:Type="String">Cable de Cobre THHN Calibre 12 AWG (rollo 100m)</Data></Cell>
+    <Cell><Data ss:Type="String">Electricidad e Iluminación</Data></Cell>
+    <Cell><Data ss:Type="String">rollo</Data></Cell>
+    <Cell ss:StyleID="CurrencyStyle"><Data ss:Type="Number">68.00</Data></Cell>
+    <Cell><Data ss:Type="Number">5</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">PIN-001</Data></Cell>
+    <Cell><Data ss:Type="String">Pintura Caucho Clase A Blanco Intenso (Cuñete 5 Gal)</Data></Cell>
+    <Cell><Data ss:Type="String">Acabados y Pinturas</Data></Cell>
+    <Cell><Data ss:Type="String">cuñete</Data></Cell>
+    <Cell ss:StyleID="CurrencyStyle"><Data ss:Type="Number">45.00</Data></Cell>
+    <Cell><Data ss:Type="Number">8</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">E121.100.000</Data></Cell>
+    <Cell><Data ss:Type="String">Deforestación y limpieza de terreno a máquina</Data></Cell>
+    <Cell><Data ss:Type="String">Movimiento de Tierras</Data></Cell>
+    <Cell><Data ss:Type="String">m2</Data></Cell>
+    <Cell ss:StyleID="CurrencyStyle"><Data ss:Type="Number">1.80</Data></Cell>
+    <Cell><Data ss:Type="Number">0</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">E131.100.000</Data></Cell>
+    <Cell><Data ss:Type="String">Excavación en tierra para zapatas y fundaciones</Data></Cell>
+    <Cell><Data ss:Type="String">Movimiento de Tierras</Data></Cell>
+    <Cell><Data ss:Type="String">m3</Data></Cell>
+    <Cell ss:StyleID="CurrencyStyle"><Data ss:Type="Number">12.50</Data></Cell>
+    <Cell><Data ss:Type="Number">0</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">E323.000.120</Data></Cell>
+    <Cell><Data ss:Type="String">Vaciado de concreto premezclado R.C. 250 kg/cm2</Data></Cell>
+    <Cell><Data ss:Type="String">Estructuras y Concreto</Data></Cell>
+    <Cell><Data ss:Type="String">m3</Data></Cell>
+    <Cell ss:StyleID="CurrencyStyle"><Data ss:Type="Number">145.00</Data></Cell>
+    <Cell><Data ss:Type="Number">0</Data></Cell>
+   </Row>
+  </Table>
+ </Worksheet>
+</Workbook>
+
